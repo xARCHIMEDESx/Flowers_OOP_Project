@@ -1,0 +1,59 @@
+<plants>
+	<flowers>
+		<flower id = "1">
+			<name>Gladiolus</name>
+			<price>10</price>
+			<stemLength>0.35</stemLength>
+			<hoursFromCutting>5</hoursFromCutting>
+		</flower>
+		
+		<flower id = "2">
+			<name>Hyacinth</name>
+			<price>20</price>
+			<stemLength>0.3</stemLength>
+			<hoursFromCutting>4</hoursFromCutting>
+		</flower>
+		
+		<flower id = "3">
+			<name>Jasmine</name>
+			<price>12</price>
+			<stemLength>0.15</stemLength>
+			<hoursFromCutting>2</hoursFromCutting>
+		</flower>
+		
+		<flower id = "4">
+			<name>Lily</name>
+			<price>40</price>
+			<stemLength>0.2</stemLength>
+			<hoursFromCutting>1.5</hoursFromCutting>
+		</flower>
+		
+		<flower id = "5">
+			<name>Orchid</name>
+			<price>25</price>
+			<stemLength>0.4</stemLength>
+			<hoursFromCutting>1</hoursFromCutting>
+		</flower>
+		
+		<flower id = "6">
+			<name>Rose</name>
+			<price>15</price>
+			<stemLength>0.5</stemLength>
+			<hoursFromCutting>3</hoursFromCutting>
+		</flower>
+	</flowers>	
+	
+	<cactuses>
+		<cactus id = "1">
+			<name>Cereus</name>
+			<price>95</price>
+			<shape>Columnar-shaped</shape>
+		</cactus>
+		
+		<cactus id = "2">
+			<name>Ferocactus</name>
+			<price>70</price>
+			<shape>Barrel-shaped</shape>
+		</cactus>
+	</cactuses>
+</plants>		
